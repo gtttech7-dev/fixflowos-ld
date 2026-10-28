@@ -1,0 +1,15 @@
+{
+  "name": "FixFlowOS",
+  "tagline": "Gestão inteligente para assistências técnicas",
+  "siteUrl": "",
+  "language": "pt-BR",
+  "contactEmail": "",
+  "whatsappNumber": "",
+  "social": {"instagram": "", "youtube": ""},
+  "accessUrl": "",
+  "trial": {"enabled": false, "label": "Teste grátis por 24 horas", "url": ""},
+  "demoVideoUrl": "",
+  "business": {"legalName": "", "cnpj": "", "location": ""},
+  "launch": {"showFounders": true, "foundersLimit": 10, "foundersRemaining": null},
+  "seo": {"brandColor": "#0b141b", "googleSearchConsoleVerification": ""}
+}
