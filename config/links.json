@@ -1,4 +1,4 @@
 {
-  "stripe": {"mensal": "", "trimestral": "", "anual": "", "vitalicio": "", "vitalicioParcelado": ""},
-  "pixManual": {"mensal": "", "trimestral": "", "anual": "", "vitalicio": ""}
+  "stripe": {"https://buy.stripe.com/test_bJecN7d9xbuYaDq7jS3ks05": "", "https://buy.stripe.com/test_00w00l0mLcz27re1Zy3ks01": "", "https://buy.stripe.com/test_7sY6oJc5tbuYaDqdIg3ks02": "", "https://buy.stripe.com/test_aFa9AVfhFgPi6nafQo3ks03": "", "vitalicioParcelado": ""},
+  "pixManual": {"https://buy.stripe.com/test_bJecN7d9xbuYaDq7jS3ks05": "", "https://buy.stripe.com/test_00w00l0mLcz27re1Zy3ks01": "", "https://buy.stripe.com/test_7sY6oJc5tbuYaDqdIg3ks02": "", "https://buy.stripe.com/test_aFa9AVfhFgPi6nafQo3ks03": ""}
 }
